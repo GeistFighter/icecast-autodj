@@ -25,7 +25,7 @@
         <intakes>
                 <intake>
                         <type>playlist</type>
-                        <filename>/etc/ezstream/playlist.m3u</filename>
+                        <filename>/home/containerplaylist.m3u</filename>
                         <shuffle>1</shuffle>
                         <stream_once>0</stream_once>
                 </intake>
